@@ -1,3 +1,4 @@
 *.log
 *.tmp
-/REAME/
+*.index.html
+/README/
